@@ -1,4 +1,4 @@
-# Calculator - iOS Sprint Challenge Project Solution
+# Random Users - iOS Sprint Challenge Project Solution
 
 This is the completed version of challenge for the sprint _Objective-C Part 2_.
 
